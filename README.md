@@ -26,7 +26,6 @@ Handy scripts to automate repetitive tasks, from file management to data process
 A portfolio of designed posts and scripts for creating engaging social media content.
 
 ## 📫 Let's Connect
-- **Twitter**: [@Turkmizazi_chacha](https://twitter.com/your_twitter_handle)
 - **Email**: amitesh.yourmail@example.com
 
 ---
